@@ -1,0 +1,27 @@
+{
+	"name": "yohns/payments",
+	"description": "Authorize.Net PHP 8.2 payment gateway wrapper with line item support.",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yohn",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=8.2",
+		"authorizenet/authorizenet": "^2.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Yohns\\Payments\\": "src/"
+		}
+	},
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"config": {
+		"optimize-autoloader": true,
+		"sort-packages": true
+	}
+}
