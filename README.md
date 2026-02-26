@@ -21,7 +21,7 @@ composer require yohns/payments
 Or clone and install dependencies manually:
 
 ```bash
-git clone https://github.com/yourname/payments.git
+git clone https://github.com/YoBuild/Authorize.net-Payment-Wrapper.git
 cd payments
 composer install
 ```
