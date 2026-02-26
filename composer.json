@@ -1,5 +1,5 @@
 {
-	"name": "yohns/payments",
+	"name": "yohns/authorize.net-payments",
 	"description": "Authorize.Net PHP 8.2 payment gateway wrapper with line item support.",
 	"type": "library",
 	"license": "MIT",
